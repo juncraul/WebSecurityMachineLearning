@@ -52,7 +52,7 @@ public class Vector2(double x, double y)
         var hashX = obj.X.GetHashCode();
 
         var hashY = obj.Y.GetHashCode();
-            
+
         return hashX ^ hashY;
     }
 }
