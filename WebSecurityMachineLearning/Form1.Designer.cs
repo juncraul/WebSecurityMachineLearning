@@ -80,7 +80,7 @@
             buttonTest.Name = "buttonTest";
             buttonTest.Size = new Size(165, 34);
             buttonTest.TabIndex = 5;
-            buttonTest.Text = "Test";
+            buttonTest.Text = "Start Testing";
             buttonTest.UseVisualStyleBackColor = true;
             buttonTest.Click += buttonTest_Click;
             // 
